@@ -1,0 +1,10 @@
+18.3543 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+372.5315 	WARNING 	Requested image 'images/1253_hygiene.png' not found but similar filename 'images/1253_hygiene.jpg' exists. This will be used instead but changing the filename is advised.
+383.3975 	WARNING 	Requested image 'images/1182_injuries_infections.png' not found but similar filename 'images/1182_injuries_infections.jpg' exists. This will be used instead but changing the filename is advised.
+396.5021 	WARNING 	Requested image 'images/1034_food.png' not found but similar filename 'images/1034_food.jpg' exists. This will be used instead but changing the filename is advised.
+406.5058 	WARNING 	Requested image 'images/1201_death.png' not found but similar filename 'images/1201_death.jpg' exists. This will be used instead but changing the filename is advised.
+415.5962 	WARNING 	Requested image 'images/1171_injuries_infections.png' not found but similar filename 'images/1171_injuries_infections.jpg' exists. This will be used instead but changing the filename is advised.
+425.3561 	WARNING 	Requested image 'images/1110_body products.png' not found but similar filename 'images/1110_body products.jpg' exists. This will be used instead but changing the filename is advised.
+434.4898 	WARNING 	Requested image 'images/1118_body products.png' not found but similar filename 'images/1118_body products.jpg' exists. This will be used instead but changing the filename is advised.
+444.5377 	WARNING 	Requested image 'images/1218_death.png' not found but similar filename 'images/1218_death.jpg' exists. This will be used instead but changing the filename is advised.
+453.8019 	WARNING 	Requested image 'images/1033_food.png' not found but similar filename 'images/1033_food.jpg' exists. This will be used instead but changing the filename is advised.
